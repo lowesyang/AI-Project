@@ -6,3 +6,4 @@ AI projects for AI_ZJU
   - Implement Reversi Game using MCTS
 - Pro2:Image Restoration
   - Given 3 corrupted images, try to reconstruct their original images.
+- Pro3:MNIST Classification using Deep-Learning
